@@ -1,4 +1,5 @@
 <img width="1919" height="1079" alt="Screenshot from 2025-12-03 13-42-25" src="https://github.com/user-attachments/assets/5e42d805-5b14-4368-a9de-b07f2438b12e" />
+https://www.virustotal.com/gui/home/upload
 
 # Sims 4 Seven Seas
 After anadius has quit the sims 4 sailing community and taken down all his work i scrambled together everything i could find from him. Use this to continue to play and sail Sims 4.
