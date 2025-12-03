@@ -1,4 +1,4 @@
-# Sims-4-Seven-Seas
+# Sims 4 Seven Seas
 After anadius has quit the sims 4 sailing community and taken down all his work i scrambled together everything i could find from him. Use this to continue to play and sail Sims 4.
 
 Note: All of this is anadius's work backed-up. I have no idea how to make stuff like anadius or propely make ships to sail with. I have simply stored his work here since his website is down. It has every major dlc and every kit/pack i could find a mirror of that was still avaliable and not taken down.
