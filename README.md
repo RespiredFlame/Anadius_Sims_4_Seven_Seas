@@ -21,6 +21,7 @@ Note: If it says that your unable to download the files it means ive reached my 
 
 # Alternative DLC Downloads
 Since these DLCs are not originaly provided by Anadius i cannot prove how safe or how well they all work though they have worked for me. I also cannot maintain the downloads here.
+
 Visit this site to view what all the DLC numbers are: https://sims.tarac.nl/direct-links-to-packs/comment-page-10/#comment-17867
 
 # Instructions
