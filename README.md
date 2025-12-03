@@ -11,10 +11,26 @@ Note: All of this is anadius's work backed-up. I have no idea how to make stuff 
 2. If your on Windows run setup.bat, If your on Linux(superior) run setup_linux.sh.
 3. Install the DLC unlocker and install the Game Config (from the file you run)
 4. Download the DLCs you want.
-5. On Steam go to Setting > Browse Local Files of your sims 4 game.
+5. On Steam go to Setting > Browse Local Files of your Sims 4 game.
 6. Extract the DLC zip file into the following folder that has opened. If it asks, replace/merge the files. If it extracts as "Sims4_DLC_EP03_City_Living" etc, simply drag the folders inside out into the Sims 4 folder.
 7. Run your game, Enjoy it while it lasts!
 
 Download DLCs from here: https://gofile.io/d/U62XmA
 
 Note: If it says that your unable to download the files it means ive reached my download size limit for the month since im a free user. Wait until next month or seek alternatives. Let me know if the files go down entirely and ill reupload them.
+
+# Alternative DLC Downloads
+Since these DLCs are not originaly provided by Anadius i cannot prove how safe or how well they all work though they have worked for me. I also cannot maintain the downloads here.
+Visit this site to view what all the DLC numbers are: https://sims.tarac.nl/direct-links-to-packs/comment-page-10/#comment-17867
+
+# Instructions
+1. Download the EA DLC Unlocker.
+2. If your on Windows run setup.bat, If your on Linux(superior) run setup_linux.sh.
+3. Install the DLC unlocker and install the Game Config (from the file you run)
+4. Download the DLCs you want.
+5. On Steam go to Setting > Browse Local Files of your sims 4 game.
+6. Right click the the .iso file you downloaded and click "mount"
+7. Drag the file inside the mounted folder into your Sims 4 folder.
+8. Run your game, Enjoy it while it lasts!
+
+Alternative DLC download: https://gofile.io/d/K0RdIL
